@@ -11,4 +11,3 @@ Este repositório contém o projeto de testes funcionais realizado no site [auto
 ## Tecnologias e ferramentas
 - Casos de teste escritos em **BDD (Gherkin)**
 - Gerenciamento de testes feito no **Jira**
-- 
